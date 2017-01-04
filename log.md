@@ -13,6 +13,7 @@
 ##### (delete me or comment me out)
 
 **Today's Progress**: Started my first website using Html / Css.
+
 **Thoughts**: I really struggle with css and divs but I'm slowly learning them.
 
 **Link(s) to work**: 
