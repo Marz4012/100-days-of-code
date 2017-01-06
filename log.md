@@ -33,3 +33,11 @@
 **Thoughts** It took alot of dedication and hard work because of the buttons on bottom mixing in with the chat box and close. It was a fun layout to code and it's my first on here so I'm pretty excited on the future layouts that I will code.
 
 **Link(s) to work** http://codepen.io/Marz4012/full/rjaxEp/
+
+
+
+### Day 5: January 5, 2017
+
+**Today's Progress**: Watched course on building a blog, it was very informative.
+**Thoughts** He taught really well and i understood in depth alot about how urls work and started getting to firms and how to make them be usabel so the user can actually send in something to you.
+**Link(s) to work** 
