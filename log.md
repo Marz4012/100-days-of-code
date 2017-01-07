@@ -41,3 +41,12 @@
 **Today's Progress**: Watched course on building a blog, it was very informative.
 **Thoughts** He taught really well and i understood in depth alot about how urls work and started getting to firms and how to make them be usabel so the user can actually send in something to you.
 **Link(s) to work** 
+
+
+
+### Day 6: January 6, 2017
+
+**Today's Progress**: Started coding out a design and continued freecodecamps javascript. 
+**Thoughts** I feel like it helps me when I look for a design made by someone and just code it. I learn alot and It gives me more confidence.
+**Link(s) to work** 
+
