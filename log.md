@@ -51,23 +51,30 @@
 **Thoughts** I feel like it helps me when I look for a design made by someone and just code it. I learn alot and It gives me more confidence.
 **Link(s) to work** 
 
-### Day 7-10: January 7, 2017
+### Day 7-10: January 7-10, 2017
 
 **Today's Progress**: Finalized a Website design and designed out the menu page and continued the basic javascript section. 
 
 **Thoughts** I feel like I accomplished alot these past days. I finally got the time to finish the website designs and will soon code it.
 **Link(s) to work** 
 
-### Day 11: January 7, 2017
+### Day 11: January 11, 2017
 
 **Today's Progress**:Continued Javascript basics on freecodecamp.
 
 **Thoughts** Its easy for me bc it has some things that are similar to c++.
 **Link(s) to work** 
 
-### Day 12-13: January 7, 2017
+### Day 12-13: January 12-13, 2017
 
 **Today's Progress**: Finally finished the basic javascript section on freecodecamp. 
 
 **Thoughts** It was a fun time and it was pretty long to do and tbh I just wanted to finish it. I cant wait for the new sections to come!
-**Link(s) to work** 
+**Link(s) to work**
+
+### Day 14-15: January 14-15, 2017
+
+**Today's Progress**:  Worked out the project im doing but still having some need to find a way for customers to purchase online.
+
+**Thoughts** It was a fun time and it was pretty long to do and tbh I just wanted to finish it. I cant wait for the new sections to come!
+**Link(s) to work**
