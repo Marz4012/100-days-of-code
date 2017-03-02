@@ -78,3 +78,10 @@
 
 **Thoughts** It was a fun time and it was pretty long to do and tbh I just wanted to finish it. I cant wait for the new sections to come!
 **Link(s) to work**
+
+### Day 16-17: February 28, - March 1, 2017
+
+**Today's Progress**:  Did all the object oriented and functional programming in free code camp using javascript. 
+
+**Thoughts** It is similar to haskell in a way, like concat, filter and others. There all similar ways to be used just like in haskell 
+**Link(s) to work**
