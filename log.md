@@ -85,3 +85,10 @@
 
 **Thoughts** It is similar to haskell in a way, like concat, filter and others. There all similar ways to be used just like in haskell 
 **Link(s) to work**
+
+### Day 18: May 28, 2017
+
+**Today's Progress**:  Started What the flex videos. Haven't been on but I am back now and hope to continue and complete the challenge. 
+
+**Thoughts** I have been gone for so long maybe the lack of confidence killed me there but this time I will keep going and never give up.
+**Link(s) to work**
