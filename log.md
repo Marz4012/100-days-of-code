@@ -92,3 +92,13 @@
 
 **Thoughts** I have been gone for so long maybe the lack of confidence killed me there but this time I will keep going and never give up.
 **Link(s) to work**
+
+### Day 19: May 29, 2017
+
+**Today's Progress**:  Working on the algorithms for @freeCodeCamp and also designed half a layout for the restaurant and will soon be coding it! #100daysofcode 
+
+
+**Thoughts** I used Wix to design the layout it was really fun but now need to figure out the coding for it. And for alogirthms, I am still having a hard time will finish them tomorrow!
+
+**Link(s) to work**
+
